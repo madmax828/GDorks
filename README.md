@@ -554,8 +554,8 @@ This list is for educational purposes only. Use Google dorks responsibly, respec
 
 Happy dorking! 🌟
 
+![Views](https://dynamic-repo-badges.vercel.app/svg/count/7/Repository%20Views/gdorks)
 
-**Repository Views**  ![Views](https://dynamic-repo-badges.vercel.app/svg/count/7/Repository%20Views/gdorks)
 <!--
 
 **Repository Views** ![Views](https://profile-counter.glitch.me/GDorks/count.svg)
