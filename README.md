@@ -1,55 +1,6 @@
 # GDorks: Uncover the Hidden Gems of the Internet 🌐
 
-
-![Language](https://img.shields.io/badge/language-txt-orange) ![License](https://img.shields.io/badge/license-MIT-green) ![GitHub Repo Size](https://img.shields.io/github/repo-size/Ishanoshada/Gdorks) ![GitHub Issues](https://img.shields.io/github/issues/Ishanoshada/Gdorks) ![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Ishanoshada/Gdorks) ![GitHub Contributors](https://img.shields.io/github/contributors/Ishanoshada/Gdorks) ![GitHub Last Commit](https://img.shields.io/github/last-commit/Ishanoshada/Gdorks) ![GitHub Forks](https://img.shields.io/github/forks/Ishanoshada/Gdorks?style=social) ![GitHub Stars](https://img.shields.io/github/stars/Ishanoshada/Gdorks?style=social) ![GitHub Watchers](https://img.shields.io/github/watchers/Ishanoshada/Gdorks?style=social)
-[![Dorks](https://img.shields.io/badge/Dorks-Discover%20the%20Internet-blue)](https://img.shields.io/)
-
-
 Welcome to GDorks, your gateway to the hidden wonders of the internet! 🚀
-
-## Give us a ⭐️ if you find this project helpful!  
-
-If you like this project, please consider giving it a star ⭐️ on GitHub. Your support motivates me to keep improving it!  
-
-<p align="center">
-  <a href="https://buymeacoffee.com/ishanoshada">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy Me a Coffee">
-  </a>
-</p>
-
-<!--
-<h2 align="center"> ⭐️ My latest projects. Check it out!!!!  </a><br><br>
-<div align="center">
-<a href="https://github.com/ishanoshada/portflair">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishanoshada&repo=portflair&theme=dark&show_owner=true" alt="Repository Card"/>
-  </a>
-  <a href="https://github.com/ishanoshada/py-fortify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ishanoshada&repo=py-fortify&theme=dark&show_owner=true" alt="Repository Card"/>
-  </a>
-</div>
- -->
- <!--
-## Table of Contents
-- [Explore the Depths](#explore-the-depths)
-- [File Structure](#file-structure)
-- [What are Google Dorks?](#what-are-google-dorks)
-- [Syntax and Usage](#syntax-and-usage)
-- [Usage](#usage)
-- [Categories to Explore](#categories-to-explore)
-  - [Webcams - Peeking into the World](#webcams---peeking-into-the-world)
-  - [SQL Injection (SQLi)](#sql-injection-sqli)
-  - [Cross-Site Scripting (XSS)](#cross-site-scripting-xss)
-  - [Vulnerable Servers - Uncovering Weaknesses](#vulnerable-servers---uncovering-weaknesses)
-  - [Sensitive Directories - Beware of Hidden Paths](#sensitive-directories---beware-of-hidden-paths)
-  - [Database Files - Unveiling Sensitive Data](#database-files---unveiling-sensitive-data)
-- [Additional Google Dork Syntax Examples](#additional-google-dork-syntax-examples)
-- [Country-Specific Google Dork Lists](#country-specific-google-dork-lists)
-- [Contribute and Discover](#contribute-and-discover)
-- [Show Your Support](#show-your-support)
-- [Disclaimer](#disclaimer)
-- [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
-
--->
 
 ## Explore the Depths
 
