@@ -561,16 +561,6 @@ Happy dorking! 🌟
 **Repository Views** ![Views](https://profile-counter.glitch.me/GDorks/count.svg)
 -->
 
-## Star History
-
-<a href="https://star-history.com/#ishanoshada/GDorks&Date">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ishanoshada/GDorks&type=Date&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ishanoshada/GDorks&type=Date" />
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ishanoshada/GDorks&type=Date" />
-  </picture>
-</a>
-
 
 ### Frequently Asked Questions (FAQ)
 
@@ -597,9 +587,3 @@ For more questions, check our full [FAQ section](FAQ.md).
 
 > Note: This list is for educational purposes only. Always use Google dorks responsibly and never engage in any unauthorized or unethical activities. Respect privacy, intellectual property, and abide by all applicable laws and regulations. Let's make the internet a safer and more secure place! Happy dorking!
 
-## 🌟 Stargazers
-
-[![Stargazers repo roster for @ishanoshada/Py-Fortify](https://reporoster.com/stars/dark/ishanoshada/GDorks)](https://github.com/ishanoshada/GDorks/stargazers)  
-[![Forkers repo roster for @ishanoshada/Py-Fortify](https://reporoster.com/forks/dark/ishanoshada/GDorks)](https://github.com/ishanoshada/GDorks/network/members) 
- 
- <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
